@@ -47,11 +47,11 @@ From the results of the training, the evaluation of the model in the last epoch 
 
 ### Accuracy Plot per Epoch
 
-![Accuracy Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-covid19-classification/main/img/accuracy.png)
+![Accuracy Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-face-mask-detection/main/img/accuracy.png)
 
 ### Loss Plot per Epoch
 
-![Loss Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-covid19-classification/main/img/loss.png)
+![Loss Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-face-mask-detection/main/img/loss.png)
 
 ## Acknowledgements
 
